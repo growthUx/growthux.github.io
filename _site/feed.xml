@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 31 Aug 2014 17:33:21 -0700</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2014 17:33:21 -0700</lastBuildDate>
+    <title>growthUX.com - UX and growth hack demos at work</title>
+    <description>We show UX design trends and growth hack demos on this site.  All work we do is open-sourced.</description>
+    <link>http://growthux.github.io/</link>
+    <atom:link href="http://growthux.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 01 Sep 2014 10:54:46 -0700</pubDate>
+    <lastBuildDate>Mon, 01 Sep 2014 10:54:46 -0700</lastBuildDate>
     <generator>Jekyll v2.3.0</generator>
     
       <item>
@@ -28,8 +27,8 @@
 
 </description>
         <pubDate>Sun, 31 Aug 2014 10:31:15 -0700</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2014/08/31/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2014/08/31/welcome-to-jekyll.html</guid>
+        <link>http://growthux.github.io/jekyll/update/2014/08/31/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://growthux.github.io/jekyll/update/2014/08/31/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
