@@ -2,7 +2,7 @@
 title: growthUX.com - UX and growth hack demos at work
 email: victor@growthux.com
 description: We show UX design trends and growth hack demos on this site.  All work we do is open-sourced.
-baseurl: "/demos" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://growthux.github.io" # the base hostname & protocol for your site
 twitter_username: growthux
 github_username:  growthux
